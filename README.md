@@ -1,1 +1,1 @@
-# reading-PA-NonVerbal-IQ
+# reading-PA-Nonverbal-IQ
