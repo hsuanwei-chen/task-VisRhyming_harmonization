@@ -29,7 +29,7 @@ Read through each data descriptor article and browse the OpenNeuro datasets.
 3. Article: [Lytle et al. 2020](/data_descriptor/LytleBitan.DB.2020.pdf) <br>
    Data: [ds00236 - Cross-Sectional Multidomain Lexical Processing](https://openneuro.org/datasets/ds002236/versions/1.1.1)
 
-### How to Get Started with ComBat
+## How to Get Started with ComBat
 
 1. Read the documentation for [neuroCombat](https://github.com/Jfortin1/ComBatHarmonization) by [Fortin et al. 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC5845848/).
 
