@@ -1,4 +1,12 @@
-## Does Nonverbal IQ Modulate the Relation Between Phonological Awareness and Reading Skill? Harmonization of Multi-Site Pediatric Task-Based fMRI-data
+## Does Nonverbal IQ Modulate the Relation Between Phonological Awareness and Reading Skill? Harmonization of Multi-Site fMRI-data
+
+### Leaders
+
+Isaac Chen @hsuanwei-chen from the [Brain Development Lab](https://lab.vanderbilt.edu/boothlab/)
+
+### Collaborators
+
+James R. Booth (james.booth@vanderbilt.edu)
 
 ![fMRI_harmonization](fMRI_harmonization.png)
 
@@ -13,19 +21,19 @@ Neuroimaging data for this project were collected across various sites using dif
 Read through each data descriptor article and browse the OpenNeuro datasets.
 
 1. Article: [Suárez-Pellicioni et al. 2019](/data_descriptor/PellicioniLytle.SD.2019.pdf) <br>
-   Data: ["ds001486 - Brain Correlates of Math Development"](https://openneuro.org/datasets/ds001486/versions/1.3.1)
+   Data: [ds001486 - Brain Correlates of Math Development](https://openneuro.org/datasets/ds001486/versions/1.3.1)
 
 2. Article: [Lytle et al. 2019](/data_descriptor/LytleMcNorgan.SD.2019.pdf) <br>
-   Data: ["ds001894 - Longitudinal Brain Correlates of Multisensory Lexical Processing in Children"](https://openneuro.org/datasets/ds001894/versions/1.4.2)
+   Data: [ds001894 - Longitudinal Brain Correlates of Multisensory Lexical Processing in Children](https://openneuro.org/datasets/ds001894/versions/1.4.2)
 
 3. Article: [Lytle et al. 2020](/data_descriptor/LytleBitan.DB.2020.pdf) <br>
-   Data: [ds00236 - "Cross-Sectional Multidomain Lexical Processing"](https://openneuro.org/datasets/ds002236/versions/1.1.1)
+   Data: [ds00236 - Cross-Sectional Multidomain Lexical Processing](https://openneuro.org/datasets/ds002236/versions/1.1.1)
 
 ### How to Get Started with ComBat
 
-1. Read the documentation for ["neuroCombat"](https://github.com/Jfortin1/ComBatHarmonization) by [Fortin et al. 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC5845848/).
+1. Read the documentation for [neuroCombat](https://github.com/Jfortin1/ComBatHarmonization) by [Fortin et al. 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC5845848/).
 
-2. From ["Dr. John Muschelli's Neuroimaging Analysis with R series"](https://johnmuschelli.com/imaging_in_r/#21_Schedule), read through the slides and try running the example code for the lecture **Image Harmonization**.
+2. From [Dr. John Muschelli's Neuroimaging Analysis with R series](https://johnmuschelli.com/imaging_in_r/#21_Schedule), read through the slides and try running the example code for the lecture **Image Harmonization**.
 
 ### Installation
 
@@ -52,6 +60,6 @@ Clone the repository to your local machine:
    git clone <https://github.com/hsuanwei-chen/task-VisRhyme_harmonization.git>
    ```
 
-## How to Navigate this Repository
+## How to Use this Repository
 
 TBD
