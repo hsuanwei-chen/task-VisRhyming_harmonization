@@ -14,7 +14,7 @@ Research shows that reading skill (i.e. accuracy of reading words aloud) and pho
 
 Neuroimaging data for this project were collected across various sites using different scanners. Pooling fMRI data across multiple sites is critical for improving the generalizability of findings to a diverse population. However, multi-site fMRI data are often affected by non-biological variability, attributable to differences in scanner manufacturers, non-standardized imaging acquisition parameters, or other intrinsic factors. This source of variability may lead to limited statistical power or even result in spurious findings. The objective for Brainhack Vanderbilt 2025 is to develop a harmonization pipeline designed to reliably remove between-scanner variability and ensure reproducibility for downstream analyses.
 
-<img src = "https://github.com/fMRI_harmonization.png" width=50% height=50%>
+<img src = "https://github.com/hsuanwei-chen/task-VisRhyme_harmonization/fMRI_harmonization.png" width=50% height=50%>
 
 ## Learn About the Three Datasets
 
