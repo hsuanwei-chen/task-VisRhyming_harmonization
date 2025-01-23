@@ -23,9 +23,9 @@ Read through each data descriptor article and browse the OpenNeuro datasets.
 
 ### How to Get Started with ComBat
 
-1. Read the documentation for ["neuroCombat"](https://github.com/Jfortin1/ComBatHarmonization).
+1. Read the documentation for ["neuroCombat"](https://github.com/Jfortin1/ComBatHarmonization) by [Fortin et al. 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC5845848/).
 
-2. From ["Dr. John Muschelli's Neuroimaging Analysis with R series"](https://johnmuschelli.com/imaging_in_r/#21_Schedule), read through the slides and try running the example code For the lecture **Image Harmonization**.
+2. From ["Dr. John Muschelli's Neuroimaging Analysis with R series"](https://johnmuschelli.com/imaging_in_r/#21_Schedule), read through the slides and try running the example code for the lecture **Image Harmonization**.
 
 ### Installation
 
