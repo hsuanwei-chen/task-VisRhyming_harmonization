@@ -18,7 +18,7 @@ Neuroimaging data for this project were collected across various sites using dif
 
 ## Learn About the Three Datasets
 
-Read through each data descriptor article and browse the OpenNeuro datasets.
+Read through each data descriptor article and browse the OpenNeuro datasets to learn about differences in imaging acquisition parameters.
 
 - Article: [Suárez-Pellicioni et al. 2019](/data_descriptor/PellicioniLytle.SD.2019.pdf) <br>
    Data: [ds001486 - Brain Correlates of Math Development](https://openneuro.org/datasets/ds001486/versions/1.3.1)
