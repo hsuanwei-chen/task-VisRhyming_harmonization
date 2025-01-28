@@ -1,8 +1,10 @@
 library(dplyr)
 library(neuroCombat)
+library(here)
 
 # Set the working directory to the location of your script and CSV files
-setwd('/Users/pysh/dev/brainhack2025/r/roi_data')
+img_data <- here("data", "processed", "image_data.csv")
+sub_data <- here("data", "processed", "subject_data.csv")
 
 # Read the CSV files
 img = t(read.csv('image_data.csv', header = FALSE))
